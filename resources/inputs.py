@@ -1,5 +1,7 @@
-# INPUTS SECTION
+"""This module contains set of valid and invalid inputs for various APIs."""
+
 test_number = 'DELETED FOR REPO VERSION'
+
 valid_numbers = ('DELETED FOR REPO VERSION', )
 
 invalid_numbers = ('DELETED FOR REPO VERSION', )
