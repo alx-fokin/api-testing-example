@@ -41,3 +41,5 @@ valid_request_ids = ('cd962ff5575e4dffb864bf26726d05db', '3e75e2e9dd9d465e88d869
 invalid_request_ids = ('f58598c41da948fca0e9a9480a3821834', )
 
 verified_request_id = ('f58598c41da948fca0e9a9480a382183', )
+
+valid_numbers_for_insight_api = ('DELETED FOR REPO VERSION', )
